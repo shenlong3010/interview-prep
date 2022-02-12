@@ -1,7 +1,0 @@
-
-
-
-
-if __name__ == "__main__":
-    numOfOrders, size = map(int, input().split())
-    ordersNum = list(map(int, input().split())
